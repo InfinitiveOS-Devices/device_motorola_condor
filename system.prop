@@ -1,5 +1,8 @@
 # system.prop for msm8610
 #
+ro.product.model=condor
+ro.product.device=condor
+
 
 # Use reference RIL for initial bringup
 rild.libpath=/vendor/lib/libril-qc-qmi-1.so
@@ -166,5 +169,3 @@ persist.radio.relay_oprt_change=1
 
 # Property to disable hw keys which will enable on-screen virtual keys
 qemu.hw.mainkeys=0
-
-ro.product.device=condor
