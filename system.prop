@@ -166,3 +166,5 @@ persist.radio.relay_oprt_change=1
 
 # Property to disable hw keys which will enable on-screen virtual keys
 qemu.hw.mainkeys=0
+
+ro.product.device=condor
