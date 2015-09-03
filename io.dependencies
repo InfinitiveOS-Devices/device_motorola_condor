@@ -16,4 +16,5 @@
     "repository":  "InfinitiveOS-Devices/android_device_qcom_common",
     "target_path": "device/qcom/common",
     "revision":    "io-1.0"
+  }
 ]
